@@ -1,6 +1,4 @@
 # PLC_Study
-I learn, though I hate it
-
 
 
 #### 推荐的视频课（西门子s7-1200）：
